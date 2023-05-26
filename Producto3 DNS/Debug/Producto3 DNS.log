@@ -1,0 +1,9 @@
+﻿  MAIN.c
+C:\Users\User X\source\repos\Producto3 DNS\Producto3 DNS\Definiciones.h(15,1): warning C4005: 'MAX_LINE_LENGTH': redefinición de macro
+C:\Users\User X\source\repos\Producto3 DNS\Producto3 DNS\Definiciones.h(12): message : vea la definición anterior de 'MAX_LINE_LENGTH'
+C:\Users\User X\source\repos\Producto3 DNS\Producto3 DNS\MAIN.c(84,52): warning C4048: subíndices de matriz distintos: 'char (*)[22]' y 'char (*)[10][22]'
+C:\Users\User X\source\repos\Producto3 DNS\Producto3 DNS\MAIN.c(36,10): warning C4101: 'ip_DNS2': variable local sin referencia
+C:\Users\User X\source\repos\Producto3 DNS\Producto3 DNS\MAIN.c(35,10): warning C4101: 'ip_DNS1': variable local sin referencia
+C:\Users\User X\source\repos\Producto3 DNS\Producto3 DNS\MAIN.c(38,10): warning C4101: 'min_ip': variable local sin referencia
+C:\Users\User X\source\repos\Producto3 DNS\Producto3 DNS\MAIN.c(34,12): warning C4101: 'j': variable local sin referencia
+  Producto3 DNS.vcxproj -> C:\Users\User X\source\repos\Producto3 DNS\Debug\Producto3 DNS.exe
